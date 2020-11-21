@@ -44,19 +44,19 @@ Additions (sprouted grains, porridge, beer, etc.)
 (HAND MIX)
 
 Basic process for sourdough boules.
-Combine liquids (oat milk + water) + Butter + Honey then microwave for 1 min. on high to get them luke-warm and workable.
+Combine liquids (oat milk + water) + Butter + Honey then microwave for 1 min. on high to get them lukewarm and workable.
 
 <!-- timetable -->
 ### Timetable
-Day 1: Combine ingridients, 4x stretch & folds, bulk ferment, shape, place in floured bannetons overnight in the fridge.
+Day 1: Combine ingredients, 4x stretch & folds, bulk ferment, shape, place in floured bannetons overnight in the fridge.
 
-Day 2: Wake 'n Bake. Bread out of the oven into a preheated, coveredd dutch oven. Bake at 450ºF for 35 min., then 10 - 12 min. uncovered.
+Day 2: Wake 'n Bake. Bread out of the oven into a preheated, covered dutch oven. Bake at 450ºF for 35 min., then 10 - 12 min. uncovered.
 
 <!-- notes -->
 ### Notes
 Good percentage of wheat in this one.
-No preceived sour.
-Butter added a nice tendeerness to the crumb and the honey contributed minor sweeetness.
+No perceived sour.
+Butter added a nice tenderness to the crumb and the honey contributed minor sweetness.
 
 
 <!-- tags -->

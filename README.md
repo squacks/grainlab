@@ -19,7 +19,7 @@ Some of these classifications will overlap, so I have tipped the scale one direc
 
 **Levain Breads:** Anything that uses a natural leavening agent or sourdough starter. This includes sponge and biga.
 
-**Miscelaneous Breads:** Various novelties and hard to classify breads such as bagels.
+**Miscellaneous Breads:** Various novelties and hard to classify breads such as bagels.
 
 **Pasta:** Recipes for fresh pasta doughs as well as gnocchi and risotto.
 
