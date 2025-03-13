@@ -26,7 +26,7 @@ Additions (sprouted grains, porridge, beer, etc.)
 <!-- making the final dough -->
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th>Bakers %</th><th>Weight</th><th>Ingredient</th><th>Recommendation</th></tr></thead><tbody>
- <tr><td>60</td><td> class="grams"600</td><td>Hard Red Spring Wheat</td><td>Mill fresh</td></tr>
+ <tr><td>60</td><td class="grams">600</td><td>Hard Red Spring Wheat</td><td>Mill fresh</td></tr>
  <tr><td>40</td><td class="grams">400</td><td>Bread Flour</td><td>King Arthur</td></tr>
  <tr><td>1.2</td><td class="grams">12</td><td>Wheat Germ</td><td>&nbsp;</td></tr>
  <tr><td>50</td><td class="grams">500</td><td>Water</td><td>&nbsp;</td></tr>
