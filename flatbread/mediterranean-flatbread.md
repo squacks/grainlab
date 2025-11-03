@@ -20,7 +20,7 @@ Additions (sprouted grains, porridge, beer, etc.)
 
 <!-- preface -->
 This recipe is 100% inauthentic.
-Portioned large enough and rolled out properly, resembles a Neaplitan style pizza dough—which turns out to be perfect for ripping apart, soaking up olive pil, hummus, or enveloping a metric ton of ingredients.
+Portioned large enough and rolled out properly, resembles a Neaplitan style pizza dough—which turns out to be perfect for ripping apart, soaking up olive oil, hummus, or enveloping a metric ton of ingredients.
 
 <!-- making the preferment, poolish, sponge, etc. -->
 
