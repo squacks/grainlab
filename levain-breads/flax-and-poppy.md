@@ -4,7 +4,7 @@
   content: "g";
 }
 </style>
-<!-- 
+<!--
 Recipe format as follows:
 
 Flours
@@ -12,14 +12,19 @@ Wheat Germ (flour adjacent)
 Water
 Leaven
 Salt
-Additions (sprouted grains, porridge, beer, etc.) 
+Additions (sprouted grains, porridge, beer, etc.)
 -->
 
 # Flax & Poppy
 
 <!-- preface -->
-This bread has a wonderful mix of cracker-like crunch from the flax and a mild poppy flavor.
-The extended contact the flax meal has with the dough produces a more tender crumb while seeds that escaped pulverization add some crunch to the texture. The seed ratio is key here and could easily be increased for more pronounced character.
+This bread has a wonderful mix of cracker-like crunch from the flax and a mild
+poppy flavor.
+
+The extended contact the flax meal has with the dough produces a more tender
+crumb while seeds that escaped pulverization add some crunch to the texture.
+The seed ratio is key here and could easily be increased for more pronounced
+character.
 
 <!-- making the preferment, poolish, sponge, etc. -->
 
@@ -44,13 +49,20 @@ The extended contact the flax meal has with the dough produces a more tender cru
 (HAND MIX)
 
 Basic process for sourdough boules.
-Long autolyse with a couple stretch & folds before introducing the levain, then stretched and folded two more times before adding the seed mix and folding another two times.
+Long autolyse with a couple stretch & folds before introducing the levain, then
+stretched and folded two more times before adding the seed mix and folding
+another two times.
 
 <!-- timetable -->
 ### Timetable
-Day 1: Combine ingredients, 4x stretch & folds, bulk ferment until nearly doubled, cover and leave overnight in the fridge.
+Day 1: Combine ingredients, 4x stretch & folds, bulk ferment until nearly
+doubled, cover and leave overnight in the fridge.
 
-Day 2: Remove dough from the fridge and get it to room temperature (2 - 4 hours). Shape and place in floured bannetons and wait for dough to rise nearly to the top (3 - 4 hours). Turn dough out onto parchment, scored and place into a preheated covered dutch oven. Bake at 450ºF for 35 min., then 8 - 10 min. uncovered.
+Day 2: Remove dough from the fridge and get it to room temperature (2 - 4
+hours). Shape and place in floured bannetons and wait for dough to rise nearly
+to the top (3 - 4 hours). Turn dough out onto parchment, scored and place into
+a preheated covered dutch oven. Bake at 450ºF for 35 min., then 8 - 10 min.
+uncovered.
 
 <!-- notes -->
 ### Notes
